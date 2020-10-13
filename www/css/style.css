@@ -9,6 +9,10 @@ html,body {
   font-size: 2em;
 }
 
+#btn::after {
+  content: "▶";
+}
+
 #out {
   border: solid 1px black;
   border-radius: 20px;
