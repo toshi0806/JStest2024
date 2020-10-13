@@ -1,2 +1,19 @@
 /**/
 
+html,body {
+  background: skyblue;
+  height: 100%;
+}
+
+#btn {
+  font-size: 2em;
+}
+
+#out {
+  border: solid 1px black;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 5px;
+  height: 80%;
+  background: white;
+}
