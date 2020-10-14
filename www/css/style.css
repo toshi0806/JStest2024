@@ -14,11 +14,11 @@ html,body {
   color: red;
 }
 
-#out {
+.out {
   border: solid 1px black;
   border-radius: 20px;
   padding: 10px;
   margin: 5px;
-  height: 80%;
+  height: 40%;
   background: white;
 }
